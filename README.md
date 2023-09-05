@@ -1,6 +1,7 @@
 component , props , state - core concept of react <br>
 ## Table of content
-1. [React.js Installation](#react-installation-basic)  <br>
+1. [React.js Installation Basic](#react-installation-basic)  <br>
+1. [React Installation With Typescript](#react-installation-with-typescript)  <br>
 2. [React Router Setup](#installation-react-router) <br>
 3. [What is React?](#what-is-react) <br>
 4. [Why use React?](#why-react)
