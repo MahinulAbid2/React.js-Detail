@@ -10,6 +10,13 @@ component , props , state - core concept of react <br>
 7. [React Component](#react-component)
 8. [Function Component](#function-component)
 9. [JSX](#jsx)
+10. [JSX Styling](#jsx-styling)
+11. [Javascript inside of JSX](#javascript-insideof-jsx)
+12. [Props React](#props-react)
+13. [State: A Component's Memory](#state-a-components-memory)
+14. [JSX Styling](#jsx-styling)
+15. [JSX Styling](#jsx-styling)
+16. [JSX Styling](#jsx-styling)
 
 > Note that same page section URL can't contain (.)-dot. I saw the links didn't work when I put . in the link at the part that start with # . 
 
