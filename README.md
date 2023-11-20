@@ -3,8 +3,8 @@
 <br>
 <br>
 
-# Resources React-router URL parameter 
-https://v5.reactrouter.com/web/example/url-params
+# Resources URL:
+* React Router Parameter: https://v5.reactrouter.com/web/example/url-params
 
 <br>
 <br>
