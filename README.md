@@ -1,5 +1,14 @@
 ![3exkakb8xol72rpah4z1](https://github.com/MahinulAbid2/React.js-Detail/assets/70069009/6c598a3b-b787-417e-9620-916f6e1fbc26)
 
+<br>
+<br>
+
+# Resources React-router URL parameter 
+https://v5.reactrouter.com/web/example/url-params
+
+<br>
+<br>
+
 ## Table of content
 1. [React.js Installation Basic](#react-installation-basic)  <br>
 1. [React Installation With Typescript](#react-installation-with-typescript)  <br>
